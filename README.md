@@ -1,6 +1,6 @@
 
-# Data_Projects_TripleTen
-Projects I worked on while attending the Business Intelligence Analyst TripleTen Bootcamp!
+# Data Projects - TripleTen Portfolio
+Welcome to my data analytics project portfolio! Here you will find a collection of projects completed as part of my Business Intelligence Analyst program at TripleTen!
 
 
 | Project number | Title | Description |
@@ -10,3 +10,5 @@ Projects I worked on while attending the Business Intelligence Analyst TripleTen
 | 3 | [E-Commerce Business Conversion Funnel Analysis](Projects/Project-3/README.md) | The project task was to study user activity logs and build a conversion funnel to analyze how effectively the e-commerce website turned views into purchases. |
 | 4 | [Superstore Business Health Analysis](Projects/Project-4/README.md) | The project task was to review Superstore's sales data, identify profitable and loss-making products, and use data visualizations to provide strategies for improving profitability and reducing returns.  |
 | 5 | [Shopify App Landscape and Review Analysis](Projects/Project-5/README.md) | The project task was to explore the Shopify app marketplace, analyzing app types, user reviews, and developer responsiveness to identify key factors influencing app success. |
+
+Each project includes the project code, analysis, and key insights.

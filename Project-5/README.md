@@ -85,15 +85,6 @@ This project explores the root causes of returned orders at the Superstore. As a
 - Launch targeted return reduction efforts in problem states
 - Use dashboard for quarterly monitoring and decision-making
 
----
-
-## 🔗 Project Link
-
-👉 [View Full Return Analysis Dashboard on Tableau Public](#)  
-_(Replace with final dashboard link once published)_
-
----
-
 ## Tools Used
 - Tableau (Data joins, calculations, dashboarding, storytelling)
 - Excel (Data cleanup and JOIN prep)
@@ -102,4 +93,11 @@ _(Replace with final dashboard link once published)_
 
 ## Outcome
 This project delivered a repeatable method to identify, track, and act on return risks across the business. It gives Superstore leadership the tools needed to reduce return-related losses and improve customer experience.
+
+---
+
+## 🔗 Project Link
+- 📊 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Book2_2_17448546571110/ShopifyAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- 📖 [View Full Story Presentation (with captions)](https://public.tableau.com/views/Book2_2_17448546571110/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 

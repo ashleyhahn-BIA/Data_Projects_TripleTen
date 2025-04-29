@@ -66,7 +66,7 @@ I have included full-page screenshots for each visualization per rubric requirem
 
 | Screenshot | Link |
 |:---|:---|
-| 6.1 Unique App Count KPI Card, Review Counts Line Chart, Reviews vs Rating Scatterplot (early annotation) | ![View 6_1](Project-6/6_1.PNG) |
+| 6.1 Unique App Count KPI Card, Review Counts Line Chart, Reviews vs Rating Scatterplot (early annotation) | ![View 6_1](Project-6_1.PNG) |
 | 6.2 Line Chart - Review Counts by Lastmod Expanded | ![View 6_2](https://github.com/user-attachments/assets/your_real_link/6_2.PNG) |
 | 6.3 Scatterplot - Reviews Count vs Average Rating (Adjusted) | ![View 6_3](https://github.com/user-attachments/assets/your_real_link/6_3.PNG) |
 | 6.4 Detailed Textbox Insight - Reviews vs Rating Analysis (First Part) | ![View 6_4](https://github.com/user-attachments/assets/your_real_link/6_4.PNG) |

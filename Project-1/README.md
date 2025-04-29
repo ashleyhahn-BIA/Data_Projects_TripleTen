@@ -25,6 +25,9 @@ The project involved cleaning raw datasets, performing pivot table analysis, cre
   - Identified the highest-earning listing based on total revenue earned.
 - **Visualization**:
   - Produced a bar chart showing the number of reviews for the top 10 neighborhoods.
+ 
+  
+![Popular Vacation Neighborhoods by Reviews](./project_1_bc.PNG)
 
 ## Key Findings
 - **Top 3 Most Attractive Neighborhoods**: Harlem, Hell's Kitchen, and Lower East Side.

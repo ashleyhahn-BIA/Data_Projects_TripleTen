@@ -34,7 +34,8 @@ Each business question was answered using well-justified visualizations built fr
 - Created a calculated return field (`0` for no, `1` for yes)  
 - Visualized return rates by product and customer  
 - Analyzed correlation between return rate and profit by category
-
+  
+![Alternative text](./4_2.PNG)
 ---
 
 ## 💡 Key Findings

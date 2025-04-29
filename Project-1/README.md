@@ -20,7 +20,10 @@ The project involved cleaning raw datasets, performing pivot table analysis, cre
 
 ## 🛠️ Key Tasks and Methodology
 
-### 🧹 Data Cleaning
+<h3>
+  🧹 Data Cleaning
+  <img src="./data.cleaning.1.png" width="90" align="absmiddle" style="margin-left: 6px;" />
+</h3>
 - Standardized inconsistent neighborhood names (`neighborhood_clean` column)  
 - Reclassified empty bedroom values as studio apartments (`bedrooms_clean` column)
 

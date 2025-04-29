@@ -1,4 +1,4 @@
-# 🚕 Project 2: A/B Test Analysis for Food Delivery Startup (Zuber Ride-Sharing Analysis)
+# 🚕 Project 2: Zuber Ride-Sharing Analysis (A/B Test Analysis for Food Delivery Startup)
 
 ## 🧭 Project Overview
 The objective of this project was to analyze ride-sharing data for **Zuber**, a new ride-sharing company in Chicago.  

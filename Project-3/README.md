@@ -11,12 +11,13 @@ The analysis required data cleaning, pivot table creation, formula building, and
 
 ---
 
-## 🧠 Business Questions Answered   
-<img src="./3_5.PNG" alt="Alternative Text" width="300"/>
+## 🧠 Business Questions Answered
 
-- 🛒 How efficiently does the website convert visitors into paying customers? 
-- 👥 What is the overall user retention rate by monthly acquisition cohort?  
-- 🔁 How do user behaviors change over time from their initial purchase?
+<img src="./3_5.PNG" alt="E-commerce visual" width="200" align="right" style="margin-left: 20px;"/>
+
+- 🧾 How efficiently does the website convert visitors into paying customers?  
+- 📊 What is the overall user retention rate by monthly acquisition cohort?  
+- 📈 How do user behaviors change over time from their initial purchase?  
 
 ---
 

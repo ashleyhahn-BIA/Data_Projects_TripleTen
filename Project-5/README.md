@@ -94,6 +94,8 @@ This project explores the root causes of returned orders at the Superstore. As a
 - Tableau (Data joins, calculations, dashboarding, storytelling)
 - Excel (Data cleanup and JOIN prep)
 
+  ![Alternative text](./5_6.PNG)
+
 ---
 
 ## Outcome

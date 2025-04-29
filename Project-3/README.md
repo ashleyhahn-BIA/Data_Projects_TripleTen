@@ -11,11 +11,10 @@ The analysis required data cleaning, pivot table creation, formula building, and
 
 ---
 
-## 🧠 Business Questions Answered  
-- 🛒 How efficiently does the website convert visitors into paying customers?  <p align="right">
-  <img src="./3_5.PNG" width="250" alt="Image description">
-</p>
+## 🧠 Business Questions Answered   
+<img src="./3_5.PNG" alt="Alternative Text" width="300"/>
 
+- 🛒 How efficiently does the website convert visitors into paying customers? 
 - 👥 What is the overall user retention rate by monthly acquisition cohort?  
 - 🔁 How do user behaviors change over time from their initial purchase?
 
@@ -23,18 +22,40 @@ The analysis required data cleaning, pivot table creation, formula building, and
 
 ## 🛠️ Key Tasks and Methodology
 
-### 🔻 Conversion Funnel Analysis  
-- Created a three-step funnel tracking unique users across product page views, cart openings, and completed purchases  
-- Calculated total and step-by-step conversion rates
+<div style="display: flex; align-items: flex-start; gap: 16px;">
+  <div>
+    <h3>🔻 Conversion Funnel Analysis</h3>
+    <ul>
+      <li>Created a three-step funnel tracking unique users across product page views, cart openings, and completed purchases</li>
+      <li>Calculated total and step-by-step conversion rates</li>
+    </ul>
+  </div>
+  <img src="./3_2.PNG" alt="Conversion Funnel Retention Matrix" width="250"/>
+</div>
 
-### 🗓️ Cohort Analysis Preparation  
-- Isolated purchase activities from raw event data  
-- Calculated each user's first purchase date using `VLOOKUP` and pivot tables  
-- Generated monthly event and acquisition cohorts using `TEXT` and `DATEDIF` functions
+<div style="display: flex; align-items: flex-start; gap: 16px;">
+  <div>
+    <h3>🗓️ Cohort Analysis Preparation</h3>
+    <ul>
+      <li>Isolated purchase activities from raw event data</li>
+      <li>Calculated each user's first purchase date using <code>VLOOKUP</code> and pivot tables</li>
+      <li>Generated monthly event and acquisition cohorts using <code>TEXT</code> and <code>DATEDIF</code> functions</li>
+    </ul>
+  </div>
+  <img src="./3_4.PNG" alt="Cohort Purchase Activity" width="280"/>
+</div>
 
-### 📉 Cohort Retention Rates  
-- Aggregated users by acquisition month and tracked retention across 1–4 month periods  
-- Created a retention matrix with percentage retention rates month-over-month
+<div style="display: flex; align-items: flex-start; gap: 16px;">
+  <div>
+    <h3>📉 Cohort Retention Rates</h3>
+    <ul>
+      <li>Aggregated users by acquisition month and tracked retention across 1–4 month periods</li>
+      <li>Created a retention matrix with percentage retention rates month-over-month</li>
+    </ul>
+  </div>
+  <img src="./3_3.PNG" alt="Cohort Retention Matrix" width="280"/>
+</div>
+
 
 ### 📋 Executive Summary and Documentation  
 - Wrote a clear executive summary and documented all data assumptions  

@@ -5,7 +5,8 @@ As a consultant hired to save a struggling superstore from bankruptcy, my task w
 
 Each business question was answered using well-justified visualizations built from the Superstore dataset.
 
-![Alternative text](./4_1.PNG)
+![Alternative text](/4_1.PNG)
+
 ---
 
 ## 🧠 Business Questions Answered  

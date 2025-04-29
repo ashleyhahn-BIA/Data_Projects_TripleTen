@@ -53,4 +53,4 @@ Each business question was answered using individual, well-justified visualizati
 - Executive-ready dashboard and presentation of findings
 
 ## Project Link
-👉 [View Full Project Workbook or Dashboard](https://public.tableau.com/views/README_md3/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+👉 [View Full Project Workbook or Dashboard](https://public.tableau.com/views/README_md3/SuperstoreAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)

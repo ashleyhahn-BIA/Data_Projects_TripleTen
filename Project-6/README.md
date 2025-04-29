@@ -65,17 +65,18 @@ Sheet Name: `App Reviews`
 I have included full-page screenshots for each visualization per rubric requirements. Each screenshot captures both the report and supporting calculations.
 
 | Screenshot | Link |
-|:---|:---|
-| 6.1 Unique App Count KPI Card, Review Counts Line Chart, Reviews vs Rating Scatterplot (early annotation) | ![View 6_1](Project-6_1.PNG) |
-| 6.2 Line Chart - Review Counts by Lastmod Expanded | ![View 6_2](https://github.com/user-attachments/assets/your_real_link/6_2.PNG) |
-| 6.3 Scatterplot - Reviews Count vs Average Rating (Adjusted) | ![View 6_3](https://github.com/user-attachments/assets/your_real_link/6_3.PNG) |
-| 6.4 Detailed Textbox Insight - Reviews vs Rating Analysis (First Part) | ![View 6_4](https://github.com/user-attachments/assets/your_real_link/6_4.PNG) |
-| 6.4.5 Full Insight Completed - Reviews vs Rating (Finished Paragraph) | ![View 6_4.5](https://github.com/user-attachments/assets/your_real_link/6_4.5.PNG) |
-| 6.5 Helpful Reviews KPI Card + Developer Answered Scatterplot | ![View 6_5](https://github.com/user-attachments/assets/your_real_link/6_5.PNG) |
-| 6.6 Developer Answered Scatterplot (X vs Y Axis) | ![View 6_6](https://github.com/user-attachments/assets/your_real_link/6_6.PNG) |
-| 6.7 Bar Chart - Sum of Rating by Developer | ![View 6_7](https://github.com/user-attachments/assets/your_real_link/6_7.PNG) |
-| 6.8 Bar Chart - Helpful Review Average by Developer | ![View 6_8](https://github.com/user-attachments/assets/your_real_link/6_8.PNG) |
-| 6.9 Bar Chart - Developer Responsiveness (Developer Answered Average > 500 Reviews) | ![View 6_9](https://github.com/user-attachments/assets/your_real_link/6_9.PNG) |
+|:--|:--|
+| 6.1 Unique App Count KPI Card, Review Counts Line Chart, Reviews vs Rating Scatterplot (early annotation) | [View 6_1](./6_1.PNG) |
+| 6.2 Line Chart - Review Counts by Lastmod Expanded | [View 6_2](./6_2.PNG) |
+| 6.3 Scatterplot - Reviews Count vs Average Rating (Adjusted) | [View 6_3](./6_3.PNG) |
+| 6.4 Detailed Textbox Insight - Reviews vs Rating Analysis (First Part) | [View 6_4](./6_4.PNG) |
+| 6.4.5 Full Insight Completed - Reviews vs Rating (Finished Paragraph) | [View 6_4.5](./6_4.5.PNG) |
+| 6.5 Helpful Reviews KPI Card + Developer Answered Scatterplot | [View 6_5](./6_5.PNG) |
+| 6.6 Developer Answered Scatterplot (X vs Y Axis) | [View 6_6](./6_6.PNG) |
+| 6.7 Bar Chart - Sum of Rating by Developer | [View 6_7](./6_7.PNG) |
+| 6.8 Bar Chart - Helpful Review Average by Developer | [View 6_8](./6_8.PNG) |
+| 6.9 Bar Chart - Developer Responsiveness (Developer Answered Average > 500 Reviews) | [View 6_9](./6_9.PNG) |
+
 
 ---
 

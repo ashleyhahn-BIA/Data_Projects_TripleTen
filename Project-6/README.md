@@ -1,9 +1,15 @@
 # Project 6: Shopify App Analysis
 
 ## 📈 Project Overview
+
 This project investigates the landscape of apps on the Shopify platform using scraped data from the Shopify App Store. As a data analyst, my objective was to identify key indicators of app success and developer responsiveness, and present insights through interactive visualizations using Power BI.
 
+<p align="center">
+  <img src="./6_16.PNG" alt="Alterted text" width="600">
+</p>
+
 ---
+
 
 ## 📁 Data Sources
 The dataset (`shopify.xlsx`) includes four tables:
@@ -80,9 +86,6 @@ I have included full-page screenshots for each visualization per rubric requirem
 | 6.8 Bar Chart - Helpful Review Average by Developer | [View 6_8](./6_8.PNG) |
 | 6.9 Bar Chart - Developer Responsiveness (Developer Answered Average > 500 Reviews) | [View 6_9](./6_9.PNG) |
 
-
----
-
 ✅ **Screenshots Included:**
 - App Landscape visuals
 - Reviews metrics and DAX calculated fields
@@ -91,7 +94,7 @@ I have included full-page screenshots for each visualization per rubric requirem
 
 ---
 
-## 🚀 Key Insights
+## 🔍 Key Insights
 - **Review volume is growing steadily**, with spikes possibly tied to promotional periods or platform updates.
 - **Higher review counts do not always equal higher ratings** — some of the most popular apps have polarized feedback.
 - **Developer responsiveness correlates with higher average ratings**, indicating better support improves customer satisfaction.

@@ -25,7 +25,7 @@ The project involved querying a **SQL database** containing taxi trip data, comp
 - Aggregated and compared ride counts across companies for specific date ranges
 - Identified market leaders and compared ride volumes between major companies and others
 
-<img align="right" src="./2_2.PNG" width="310" />
+<img align="right" src="./2_4.PNG" width="310" />
 
 ### ☔ Weather Impact Analysis
 - Created a binary weather classification (`Good` vs `Bad`) based on weather descriptions
@@ -48,6 +48,9 @@ The project involved querying a **SQL database** containing taxi trip data, comp
 - 📉 Ride patterns showed significant dominance by a few key companies.
 - 🌧️ Rides taken during rainy (`Bad`) weather conditions had longer median durations from the Loop to O'Hare on Saturdays compared to rides during `Good` weather.
 
+<p align="center">
+  <img src="./2_5.PNG" alt="Zuber Database Schema" width="500"/>
+</p>
 ---
 
 ## 🛠️ Tools Used

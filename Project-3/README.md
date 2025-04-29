@@ -30,7 +30,7 @@ The analysis required data cleaning, pivot table creation, formula building, and
       <li>Calculated total and step-by-step conversion rates</li>
     </ul>
   </div>
-  <img src="./3_2.PNG" alt="Conversion Funnel Retention Matrix" width="250"/>
+  <img src="./3_7.PNG" alt="Conversion Funnel Retention Matrix" width="250"/>
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 16px;">
@@ -42,7 +42,7 @@ The analysis required data cleaning, pivot table creation, formula building, and
       <li>Generated monthly event and acquisition cohorts using <code>TEXT</code> and <code>DATEDIF</code> functions</li>
     </ul>
   </div>
-  <img src="./3_4.PNG" alt="Cohort Purchase Activity" width="280"/>
+  <img src="./3_2.PNG" alt="Cohort Purchase Activity" width="280"/>
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 16px;">

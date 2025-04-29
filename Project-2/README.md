@@ -31,14 +31,15 @@ The project involved querying a **SQL database** containing taxi trip data, comp
 - Created a binary weather classification (`Good` vs `Bad`) based on weather descriptions
 - Merged ride and weather data on hourly timestamps
 - Focused specifically on Saturday trips from the Loop (Neighborhood ID: 50) to O'Hare Airport (Neighborhood ID: 63)
-
-<img align="right" src="./2_3.PNG" width="350"/>
+  
 
 ### 🧮 SQL Techniques Used
 - Aggregations (`COUNT`, `GROUP BY`)
 - CASE WHEN statements for weather categorization
 - JOIN operations across multiple tables
-- Filtering using `LIKE` statements and date functions 
+- Filtering using `LIKE` statements and date functions
+  
+  <img src="./2_2.PNG" alt="Zuber Database Schema" width="500"/>
 
 ---
 

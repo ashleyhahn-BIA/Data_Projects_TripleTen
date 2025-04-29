@@ -8,19 +8,23 @@ The project involved cleaning raw datasets, performing pivot table analysis, cre
 ---
 
 ## 🧠 Business Questions Answered
+<img align="right" width="230" src="./1_3.PNG">
+
 - 📍 Which neighborhoods in Manhattan are most attractive for vacation rentals?
 - 🛏️ Which property sizes (number of bedrooms) are most popular for short-term rentals?
 - 🧩 Do different neighborhoods prefer different property sizes?
 - 💰 How much potential annual revenue could top listings generate?
 
+
 ---
 
 ## 🛠️ Key Tasks and Methodology
 
-### 🧹 Data Cleaning  
+### 🧹 Data Cleaning
 - Standardized inconsistent neighborhood names (`neighborhood_clean` column)  
-- Reclassified empty bedroom values as studio apartments (`bedrooms_clean` column)  
-<img align="right" width="300" src="./data.cleaning.1.png">
+- Reclassified empty bedroom values as studio apartments (`bedrooms_clean` column)
+
+
 
 ---
 
@@ -70,4 +74,4 @@ The project involved cleaning raw datasets, performing pivot table analysis, cre
 ---
 
 ## 🔗 Project Link  
-👉 [View Full Project Spreadsheet](https://docs.google.com/spreadsheets/d/4d1iID
+👉 [View Full Project Spreadsheet](https://docs.google.com/spreadsheets/d/4d1iIDEs6pesBCbMy85jE8oC7uw5jKz-iM7GCzIo7e7s/edit?usp=sharing)

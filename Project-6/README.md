@@ -3,8 +3,6 @@
 ## 📈 Project Overview
 This project investigates the landscape of apps on the Shopify platform using scraped data from the Shopify App Store. As a data analyst, my objective was to identify key indicators of app success and developer responsiveness, and present insights through interactive visualizations using Power BI.
 
-![Dashboard Preview](./6_1.PNG)
-
 ---
 
 ## 📁 Data Sources
@@ -27,6 +25,7 @@ Sheet Name: `App Landscape`
 | Line Chart | Review count trend over time using `lastmod` |
 | Scatterplot | Relationship between `reviews_count` and `average_rating` with annotation |
 
+![Dashboard Preview](./6_10.PNG)
 ---
 
 ### Part 2: Reviews
@@ -39,6 +38,7 @@ Sheet Name: `Reviews`
 | Calculated Column: `developer_answered` | 1 if `developer_reply` is not blank, 0 if blank |
 | Scatterplot | Average rating vs. `developer_answered` (binary axis) |
 
+![Dashboard Preview](./6_11.PNG)
 ---
 
 ### Part 3: App Reviews
@@ -50,6 +50,7 @@ Sheet Name: `App Reviews`
 | Bar Chart | Developer vs. average `helpful_review` to reduce skew |
 | Bar Chart | Most responsive developers — using `developer_answered` with filter on `reviews_count > 500` |
 
+![Dashboard Preview](./6_12.PNG)
 ---
 
 ## 🧠 Key Techniques Used

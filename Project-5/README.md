@@ -12,10 +12,12 @@ This project explores the root causes of returned orders at the Superstore. As a
 - Are certain regions or time periods more prone to returns?
 - How do returns correlate with total sales or profitability?
 - What composite trends point to deeper root causes?
-
+- 
 ---
 
 ## Methodology
+
+<img src="./5_2.PNG" alt="E-commerce visual" width="200" align="right" style="margin-left: 20px;"/>
 
 ### 📊 Return Metrics Preparation
 - Merged `Returns` table to `Orders` table using a **LEFT JOIN**.

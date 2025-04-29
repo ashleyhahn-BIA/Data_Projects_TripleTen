@@ -3,6 +3,7 @@
 ## Project Overview
 This project explores the root causes of returned orders at the Superstore. As a data analyst, my goal was to help the CEO understand **what is driving high return rates** and how to **reduce the volume and impact of returns** across key products, customers, and regions. I conducted return rate analysis using Tableau and designed an interactive dashboard to support ongoing monitoring and decision-making.
 
+![Alternative text](./5_1.PNG)
 ---
 
 ## Key Business Questions

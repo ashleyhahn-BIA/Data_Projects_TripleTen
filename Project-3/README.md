@@ -5,12 +5,17 @@ As a Junior Data Analyst at an e-commerce company, I was tasked with analyzing r
 
 The analysis required data cleaning, pivot table creation, formula building, and professional spreadsheet structuring to deliver executive-level insights.
 
-![Alternative Text](./3_1.PNG)
+<p align="center">
+  <img src="./3_1.PNG" width="500" alt="Conversion Funnel Chart">
+</p>
 
 ---
 
 ## 🧠 Business Questions Answered  
-- 🛒 How efficiently does the website convert visitors into paying customers?  
+- 🛒 How efficiently does the website convert visitors into paying customers?  <p align="right">
+  <img src="./3_5.PNG" width="250" alt="Image description">
+</p>
+
 - 👥 What is the overall user retention rate by monthly acquisition cohort?  
 - 🔁 How do user behaviors change over time from their initial purchase?
 

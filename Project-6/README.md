@@ -3,6 +3,8 @@
 ## 📈 Project Overview
 This project investigates the landscape of apps on the Shopify platform using scraped data from the Shopify App Store. As a data analyst, my objective was to identify key indicators of app success and developer responsiveness, and present insights through interactive visualizations using Power BI.
 
+![Dashboard Preview](./6_1.PNG)
+
 ---
 
 ## 📁 Data Sources

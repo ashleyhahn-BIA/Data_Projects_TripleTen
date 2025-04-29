@@ -57,10 +57,17 @@ The analysis required data cleaning, pivot table creation, formula building, and
 </div>
 
 
-### 📋 Executive Summary and Documentation  
-- Wrote a clear executive summary and documented all data assumptions  
-- Organized sheets into a logical structure with a 📑 Table of Contents  
-- Formatted spreadsheets for readability: **bold headers**, frozen rows, borders, and clean formatting
+<div style="display: flex; align-items: flex-start; gap: 16px;">
+  <div>
+    <h3>📋 Executive Summary and Documentation</h3>
+    <ul>
+      <li>Wrote a clear executive summary and documented all data assumptions</li>
+      <li>Organized sheets into a logical structure with a 📑 Table of Contents</li>
+      <li>Formatted spreadsheets for readability: <strong>bold headers</strong>, frozen rows, borders, and clean formatting</li>
+    </ul>
+  </div>
+  <img src="./3_6.PNG" alt="Executive Summary Table of Contents" width="300"/>
+</div>
 
 ---
 

@@ -5,6 +5,9 @@ The objective of this project was to analyze ride-sharing data for **Zuber**, a 
 The goal was to identify patterns in passenger behavior, understand taxi company competition, and evaluate the impact of **rainy weather** on ride duration from the city center to the airport.
 
 The project involved querying a **SQL database** containing taxi trip data, company information, neighborhood details, and weather records. Hypotheses were tested using structured queries and aggregations to uncover insights about ride patterns under different weather and time conditions.
+<p align="center">
+  <img src="./2_1.PNG" alt="Zuber Database Schema" width="500"/>
+</p>
 
 ---
 

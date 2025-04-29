@@ -25,16 +25,20 @@ The project involved querying a **SQL database** containing taxi trip data, comp
 - Aggregated and compared ride counts across companies for specific date ranges
 - Identified market leaders and compared ride volumes between major companies and others
 
+<img align="right" src="./2_2.PNG" width="310" />
+
 ### ☔ Weather Impact Analysis
 - Created a binary weather classification (`Good` vs `Bad`) based on weather descriptions
 - Merged ride and weather data on hourly timestamps
 - Focused specifically on Saturday trips from the Loop (Neighborhood ID: 50) to O'Hare Airport (Neighborhood ID: 63)
 
+<img align="right" src="./2_3.PNG" width="350"/>
+
 ### 🧮 SQL Techniques Used
 - Aggregations (`COUNT`, `GROUP BY`)
 - CASE WHEN statements for weather categorization
 - JOIN operations across multiple tables
-- Filtering using `LIKE` statements and date functions
+- Filtering using `LIKE` statements and date functions 
 
 ---
 

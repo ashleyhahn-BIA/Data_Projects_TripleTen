@@ -1,0 +1,38 @@
+# Project 7: Customer Segmentation and Retention Analysis
+
+## 📌 Project Overview
+This final capstone project explores customer behavior using a fictional food delivery dataset. The objective was to segment customers by age, geography, and frequency of orders to identify key trends in repeat purchases and overall retention.
+
+## 📊 Data Sources
+The dataset (`customers.csv`, `orders.csv`, `regions.csv`) includes:
+- Customer demographics and regions
+- Order dates, frequency, and revenue
+- Regional population and urban vs. rural tags
+
+## ❓ Business Questions
+- Which age group generates the most revenue?
+- Which regions have the highest repeat order rates?
+- Are specific days or product categories tied to higher engagement?
+
+## 🔧 Key Techniques Used
+- Power BI DAX for cohort analysis
+- Custom calculated columns for repeat rate
+- Slicers and filters for dynamic exploration
+
+## 📷 Visual Output
+- Monthly Order Volume by Region
+- Age Group Revenue Comparison
+- Repeat Order Rate by Geography
+
+## 💡 Key Insights
+- Customers aged 25–34 were the most loyal and generated the highest LTV.
+- Urban regions had higher engagement than rural areas, especially on weekends.
+- Cohort analysis revealed a drop-off after month 2, suggesting a loyalty incentive opportunity.
+
+## 🛠️ Tools Used
+- Power BI (Cohort Modeling, DAX, Visuals)
+- Excel (Preprocessing)
+
+## ✅ Outcome
+This final project showcases the ability to segment customer behavior and generate business insights to support marketing and retention strategies.
+

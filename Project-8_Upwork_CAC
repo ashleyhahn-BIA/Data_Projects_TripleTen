@@ -1,0 +1,35 @@
+# Project 8: CAC Reforecasting for an E-commerce Client (Freelance)
+
+## 📌 Project Overview
+This project was completed for a real e-commerce client via Upwork. The task was to reforecast Customer Acquisition Cost (CAC) by platform (Meta and Google) over a six-month period, using provided ad spend and customer data.
+
+## 📊 Data Sources
+- `Daily Profit Tracker.xlsx` with separate sheets for ad spend, new customers, and total revenue
+
+## ❓ Business Questions
+- What is the blended vs. targeted CAC over time?
+- Which channel is the most cost-effective for acquiring new customers?
+- How can we visualize CAC performance for stakeholders?
+
+## 🔧 Key Techniques Used
+- Excel formulas for weighted CAC
+- Dashboard-style summary pages
+- Month-to-month comparisons with executive insights
+
+## 📷 Visual Output
+- Monthly CAC by Platform
+- Executive Summary Page
+- Channel Comparison Table
+
+## 💡 Key Insights
+- Meta had a lower average CAC but more fluctuation month-to-month
+- Google Ads delivered more consistent CAC, ideal for budget stability
+- Targeted CAC remained higher due to fixed costs; blended CAC improved with higher volume
+
+## 🛠️ Tools Used
+- Excel (Modeling, Visuals, Metrics)
+- PowerPoint (Client Deliverables Summary)
+
+## ✅ Outcome
+This freelance project highlighted the importance of CAC optimization and helped the client shift budget allocation to improve ROAS and LTV outcomes.
+

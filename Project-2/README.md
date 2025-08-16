@@ -64,6 +64,8 @@ The project involved querying a **SQL database** containing taxi trip data, comp
 - 🛠️ Data cleaning and transformation scripts
 - 📈 Final insights presented through query results and pivot tables
 
+![](<Untitled design (1).png>)
+
 ---
 
 ## 🔗 Project Link

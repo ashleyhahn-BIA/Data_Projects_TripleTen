@@ -59,6 +59,8 @@ The project involved cleaning raw datasets, performing pivot table analysis, cre
 - 🧭 Harlem showed a particular preference for 1-bedroom properties  
 - 💸 The highest-earning listing (ID: `5525510`) had the potential to generate substantial annual income based on observed revenue
 
+<img width="701" height="436" alt="image" src="https://github.com/user-attachments/assets/7a21ad0f-cca1-43ab-a7e0-3b97bd35a035" />
+
 ---
 
 ## 🧰 Tools Used
